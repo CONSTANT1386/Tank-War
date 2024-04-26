@@ -26,7 +26,7 @@ public class Main {
             e_y = s.getYPosition();
             p_x = player.getXPosition();
             p_y = player.getYPosition();
-            e_y -= 1;
+            e_y -= 0.5;
 
             //System.out.println(1);
             //int bulletNum = BL.size();
