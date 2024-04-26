@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=x\ y
+comment1.target=Bullet(double,\ double)
+comment2.params=g
+comment2.target=void\ addTo(GameArena)
+comment3.params=delta_y
+comment3.target=void\ move(double)
+numComments=4

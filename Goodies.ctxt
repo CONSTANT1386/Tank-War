@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Goodies
+comment1.params=x\ y
+comment1.target=Goodies(double,\ double)
+comment2.params=gameArena
+comment2.target=void\ addTo(GameArena)
+comment3.params=x\ y
+comment3.target=void\ move(double,\ double)
+comment4.params=
+comment4.target=double\ getXPosition()
+comment5.params=
+comment5.target=double\ getYPosition()
+numComments=6

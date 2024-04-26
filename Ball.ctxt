@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Models\ a\ simple\ solid\ sphere.\ \r\n\ This\ class\ represents\ a\ Ball\ object.\ When\ combined\ with\ the\ GameArena\ class,\r\n\ instances\ of\ the\ Ball\ class\ can\ be\ displayed\ on\ the\ screen.\r\n
+comment1.params=
+comment1.target=double\ getXPosition()
+comment1.text=\r\n\ Obtains\ the\ current\ position\ of\ this\ Ball.\r\n\ @return\ the\ X\ coordinate\ of\ this\ Ball\ within\ the\ GameArena.\r\n
+comment2.params=
+comment2.target=double\ getYPosition()
+comment2.text=\r\n\ Obtains\ the\ current\ position\ of\ this\ Ball.\r\n\ @return\ the\ Y\ coordinate\ of\ this\ Ball\ within\ the\ GameArena.\r\n
+comment3.params=x
+comment3.target=void\ setXPosition(double)
+comment3.text=\r\n\ Moves\ the\ current\ position\ of\ this\ Ball\ to\ the\ given\ co-ordinates\r\n\ @param\ x\ the\ new\ x\ co-ordinate\ of\ this\ Ball\r\n
+comment4.params=y
+comment4.target=void\ setYPosition(double)
+comment4.text=\r\n\ Moves\ the\ current\ position\ of\ this\ Ball\ to\ the\ given\ co-ordinates\r\n\ @param\ y\ the\ new\ y\ co-ordinate\ of\ this\ Ball\r\n
+comment5.params=
+comment5.target=double\ getSize()
+comment5.text=\r\n\ Obtains\ the\ size\ of\ this\ Ball.\r\n\ @return\ the\ diameter\ of\ this\ Ball,in\ pixels.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getColour()
+comment6.text=\r\n\ Obtains\ the\ colour\ of\ this\ Ball.\r\n\ @return\ a\ textual\ description\ of\ the\ colour\ of\ this\ Ball.\r\n
+comment7.params=x\ y\ diameter\ col
+comment7.target=Ball(double,\ double,\ double,\ java.lang.String)
+numComments=8
